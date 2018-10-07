@@ -7,13 +7,16 @@ Par agile, nous entendons des méthodes particulièrement adaptées au contexte 
 
 ### Le but de l'entretien.
 
-Nous travaillons dans des contextes très variables et nous avons rencontré un certain nombre de difficultés,
-dans la priorisation des tâches, le travail à plusieurs, le planning, la gestion des ressources et la relation clients;
+Nous sommes 4 et travaillons dans des contextes différents et nous avons rencontré un certain nombre de difficultés communes,
+dans la priorisation des tâches, le travail à plusieurs, le planning, la gestion des ressources et la relation clients.
 
-Avant d'aller plus loin, on aimerait savoir si vous êtes confrontés aux mêmes problématiques que nous. 
+Avant d'aller plus loin, on aimerait savoir si tu es confrontés aux mêmes problématiques que nous ou si tu en as d'autres auxquelles nous n'aurions pas pensé. 
+Il nous semble que tu travailles aussi dans ce contexte et on aimerait voir si tu as les mêmes problèmes que nous ou si tu en as d'autres auxquels nous n'avons pas encore pensé.
 
 Je tiens à souligner que nous ne disposons pas encore d'un produit fini et que nous souhaitons apprendre de vous et non
-vous vendre quelque-chose.
+vous vendre quelque-chose (à dire dès le début ou à la fin).
+
+Au cours de l'entretien je vais te demander de te présenter 
 
 ## Recueillir des données personnelles - 2 min
 
@@ -26,24 +29,22 @@ vous vendre quelque-chose.
 - Est-ce que tu connais l'agilité ? Scrum ?
 - As-tu un profil technique (type ingénieur, développeur...) ?
 
-## Raconter une histoire 2 min
+## Raconter une histoire - 2 min
 
-je vais maintenant vous parler des problèmes auquels nous nous attaquons.
-Mon equipe et moi avons souvent été confontrés à une masse de travail face à laquelle il est dificile d'indentifier les
-choses les plus importantes à faire. Il nous est déjà arrivé de travailler énormément et de s'aprcevoir que des choses très
-importantes n'avaient pas étées faites.
-Par ailleurs nous avons souvent eu du mal à respecter les délais fixés pour le projet. Nous nous sommes souvent
-retrouvé à effectuer des heures suplémentaires et à dépenser plus d'argent que prévu.
-Cette situation m'a poussé à rechercher des méthodes ou des solutions dans des livres ou sur internet, mais il s'avère dificile
-de les mettre en pratique.
+Je vais maintenant vous parler des problèmes auquels nous nous attaquons.
+Mon equipe et moi avons souvent été confontrés à 3 sortes de problèmes.
+- Nous avons été confrontés à une masse de travail face à laquelle il est difficile d'identifier les choses les plus importantes à faire. Il nous est déjà arrivé de travailler énormément et de s'apercevoir que des choses très importantes n'avaient pas été faites.
+- Par ailleurs, nous avons souvent eu du mal à respecter les délais fixés pour le projet, nous nous sommes souvent
+retrouvé à effectuer des heures supplémentaires et à dépenser plus d'argent que prévu.
+Cette situation m'a poussée à rechercher des méthodes ou des solutions dans des livres ou sur Internet, mais il s'avère difficile de les adapter au contexte et de les mettre en pratique.
 
 ## Etablir un classement des problèmes 4 min
 
-- Est ce que tu te rends compte que tes tâches prioritaires n'ont pas étées affecturées.
+- Est ce que tu te rends compte que tes tâches prioritaires n'ont pas été effectuées.
 - Les projets de ton équipe prennent-ils plus de temps ou coûtent-ils plus cher que prévu ?
 - Est ce que tu as des difficultés à mettre en pratique des methodes d'organisations ?
 
-Demandez ici ou après la discussion de 15 minutes de prioriser les 3 problèmes et leur pénibilité.
+Demandez ici de prioriser les 3 problèmes et leur pénibilité, en changeant l'ordre des problèmes à chaque itw pour éviter de les hiérarchiser inconsciemment.
 
 - Est ce que tu as d'autre problèmes lié à l'organisation du travail dans ton équipe ?
 
